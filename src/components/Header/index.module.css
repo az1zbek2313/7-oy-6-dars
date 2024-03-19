@@ -1,0 +1,7 @@
+.hovers{
+    background: #a52635;
+    cursor: pointer;
+}
+.hovers:hover{
+    background: #c21a2e;
+}

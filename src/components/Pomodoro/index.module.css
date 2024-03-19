@@ -1,0 +1,45 @@
+.link{
+    color:white;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 20px;
+}
+.list{
+    list-style-type: none;
+    display: flex;
+    gap: 30px;
+    margin: 0 auto;
+}
+.pomodoro{
+    width:600px;
+    padding: 20px;
+    margin: 0 auto;
+    background-color: #0dcaf0;
+    border-radius: 10px;
+    margin-top: 40px;
+    box-shadow: 0 0 3px 1px black;
+}
+.time{
+    text-align: center;
+    font-size: 140px;
+    color:white;
+    font-family:sans-serif;
+    font-weight: 500;
+}
+.btns{
+    display: flex;
+    align-items:center;
+    gap: 20px;
+    justify-content: center;
+}
+.btn{
+    border:none;
+    padding: 10px 40px;
+    border-radius: 8px;
+    font-size: 20px;
+    background-color:#2c4fae;
+    color: white;
+}
+.btn:hover{
+    background-color:#154de6;
+}
